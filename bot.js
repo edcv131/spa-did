@@ -32,12 +32,22 @@ client.user.setGame()
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:rose: سيرفر جميل ومرتب بس مظلوم بالتفاعل :rose: 
-
-*:small_orange_diamond: السيرفر عادة جديد ووصل 102ومظلوم بالدعم ونبي نوصله 500 عشان نسوي جيف اواي علي كردتس وحسابات جميلة وشكراً.. :rose: :small_orange_diamond: *
-                               [ https://discord.gg/nm852f7 ] 
+:moneybag:10 Invites - $2
+:moneybag:15 Invites - $5
+:moneybag:25 Invites - $7
+:moneybag:30 Invites - $11 and Exclusive Giveaway Access
+:moneybag:45 Invites - $17
+:moneybag:55 Invites - $30 and a Custom Role
+:moneybag:65 Invites - $37
+:moneybag:78 Invites - $48
+:moneybag:90 Invites - $60
+:moneybag:150 Invites - $90
+:moneybag:200 Invites - $105
+:moneybag:250 Invites - $110
+Invite rewards do not stack, once you claim, your invites will be reset.(edited)..
+                               [ https://discord.gg/cvaXGFJ ] 
  :small_blue_diamond: الرابط : :small_blue_diamond: ... [ ${member}  ]
-**`)
+**`)  
 }).catch(console.error)
 
 })
@@ -46,10 +56,21 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-:rose: سيرفر جميل ومرتب بس مظلوم بالتفاعل :rose: 
 
-*:small_orange_diamond: السيرفر عادة جديد ووصل 102ومظلوم بالدعم ونبي نوصله 500 عشان نسوي جيف اواي علي كردتس وحسابات جميلة وشكراً.. :rose: :small_orange_diamond: *
-                               [ https://discord.gg/nm852f7 ] 
+:moneybag:10 Invites - $2
+:moneybag:15 Invites - $5
+:moneybag:25 Invites - $7
+:moneybag:30 Invites - $11 and Exclusive Giveaway Access
+:moneybag:45 Invites - $17
+:moneybag:55 Invites - $30 and a Custom Role
+:moneybag:65 Invites - $37
+:moneybag:78 Invites - $48
+:moneybag:90 Invites - $60
+:moneybag:150 Invites - $90
+:moneybag:200 Invites - $105
+:moneybag:250 Invites - $110
+Invite rewards do not stack, once you claim, your invites will be reset.(edited)..
+                               [ https://discord.gg/cvaXGFJ ] 
  :small_blue_diamond: الرابط : :small_blue_diamond: ... [ ${member}  ]
 **`)  
 }).catch(console.error)
